@@ -1,1 +1,1 @@
-# My Spring Web Application
+# Spring Web Application
